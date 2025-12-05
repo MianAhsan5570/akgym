@@ -1,0 +1,36 @@
+[18-Apr-2019 13:57:24 UTC] PHP Notice:  Undefined variable: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createOrder.php on line 82
+[21-Apr-2019 15:02:39 UTC] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createOrder.php on line 74
+[21-Apr-2019 15:02:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 10
+[21-Apr-2019 15:02:39 UTC] PHP Notice:  Undefined variable: row in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 16
+[27-Apr-2019 16:55:29 UTC] PHP Notice:  Undefined variable: row in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 16
+[27-Apr-2019 17:09:25 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:09:25 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:13:50 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:13:50 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:18:17 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:18:17 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:19:27 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:19:27 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:22:39 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:22:39 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:25:11 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:25:11 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:26:47 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:26:47 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:35:57 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:35:57 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[27-Apr-2019 17:36:18 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 83
+[27-Apr-2019 17:36:18 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 100
+[29-Apr-2019 11:29:53 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 85
+[29-Apr-2019 11:29:53 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 102
+[29-Apr-2019 11:30:25 UTC] PHP Notice:  Undefined variable: row in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 16
+[29-Apr-2019 11:32:49 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 85
+[29-Apr-2019 11:32:49 UTC] PHP Notice:  Undefined index: order_id in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/createpurchase.php on line 102
+[29-Apr-2019 12:02:46 UTC] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/edit_purchase.php on line 79
+[29-Apr-2019 12:02:52 UTC] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/edit_purchase.php on line 79
+[30-Apr-2019 09:09:08 UTC] PHP Notice:  Undefined index: userId in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/core.php on line 9
+[30-Apr-2019 09:24:57 UTC] PHP Notice:  Undefined index: productName in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/edit_purchase.php on line 74
+[30-Apr-2019 09:24:57 UTC] PHP Notice:  Undefined index: productName in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/edit_purchase.php on line 97
+[30-Apr-2019 15:38:33 UTC] PHP Notice:  Undefined variable: row in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 16
+[30-Apr-2019 16:01:30 UTC] PHP Notice:  Undefined variable: row in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/fetchSelectedProduct.php on line 16
+[01-May-2019 08:20:21 UTC] PHP Notice:  Undefined index: userId in /home/sv0vk2fh45gi/public_html/client_online/zaincablemotormarket/php_action/core.php on line 9
